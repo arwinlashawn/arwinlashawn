@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-<!--
+🤭 Funny how I just knew about this cool feature- (having a README first thing in the "Overview" section!) 
+
+## 🍏 Background
+Hi! My name is Arwin Lashawn, a biotechnology major from University of California, Davis. I started coding during the summer of 2019. Weirdly enough, I chose to randomly learn about SQL because I thought it looked cool. One thing led to another and I found my passion for programming. I really like the idea of how we are only limited by our creativity when it comes to coding. All you need is a laptop and decent internet connection. : )
+
+Social media links:
+
+- [Portfolio Website](https://arwinlashawn.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/arwinlashawn/)
+
 **arwinlashawn/arwinlashawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
