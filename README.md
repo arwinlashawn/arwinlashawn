@@ -7,7 +7,7 @@ Hi! My name is Arwin Lashawn, a biotechnology major from University of Californi
 
 Social media links:
 
-- [Portfolio Website](https://arwinlashawn.github.io/)
+- [Portfolio Website](https://www.arwinlashawn.com/)
 - [LinkedIn](https://www.linkedin.com/in/arwinlashawn/)
 
 **arwinlashawn/arwinlashawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
