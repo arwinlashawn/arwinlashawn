@@ -1,14 +1,11 @@
-## Hi there 👋
-
-🤭 Funny how I just knew about this cool feature- (having a README first thing in the "Overview" section!) 
-
 ### 🍏 Background
-Hi! My name is Arwin Lashawn, a biotechnology major from University of California, Davis. I started coding during the summer of 2019. Weirdly enough, I chose to randomly learn about SQL because I thought it looked cool. One thing led to another and I found my passion for programming. I really like the idea of how we are only limited by our creativity when it comes to coding. All you need is a laptop and decent internet connection. : )
+Hey, Arwin here! Passionate about data and AI. Full time @MSFT Azure, part time @FVRR doing tutoring, development, consulting, and the likes. Hit me up if you see us working together.
 
 Social media links:
 
 - [Portfolio Website](https://www.arwinlashawn.com/)
 - [LinkedIn](https://www.linkedin.com/in/arwinlashawn/)
+- [Fiverr Profile](https://www.fiverr.com/arwinlashawn)
 
 **arwinlashawn/arwinlashawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
